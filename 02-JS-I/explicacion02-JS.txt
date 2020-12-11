@@ -1,0 +1,13 @@
+Este archivo de texto fue creado en consola y modificado con el comando 'nano'.
+
+Variable: Una variable es como si fuese una caja donde guardas cosas para usarlas mas adelante. Solo tiene sentido guardar cosas que sepas que vas a usar, caso contrario mejor no hacerlo.
+
+String: Una string permite almacenar valor en formato de texto. Son faciles de reconocer ya que siempre estan entre comillas (""). Incluso un numero con esta definicion: "2", es un tipo de dato string.
+
+Funciones: Las funciones las podemos relacionar como una fabrica la cual contiene varios hornos con trabajadores para producir lo que sea(claramente puede contener lo que sea que le querramos dar). Dependiendo de los ingredientes que le pasemos a la fabrica (es decir los argumentos) nos va a devolver un producto diferente (el retorno o 'return'). Si les pasamos harina, azucar, manteca, huevos y chispas de chocolate, nos devuelve galletitas con chispas de chocolate. Ahora si le pasamos harina, agua, sal, levadura, un poco de aceite y queso, nos devolvera una pizza.
+
+Declaraciones: La declaracion "if" es como hacer que se ejecute algo cuando se cumpla determinada condicion. Por ejemplo: Si sos mayor de edad podes conducir, caso contrario (que seas menor), no podras hacerlo.
+
+Valores booleanos: Un valor booleano es simplemente ver que algo sea verdadero o sea falso. Es eso, o verdadero o falso. Por ejemplo, evaluemos las siguientes oraciones: Los perros ladran. Los perros vuelan. En la primera oracion es verdad, por lo que le podemos asignar el valor booleano verdadero, o mas conocido, "true". La segunda oracion no es verdadera (a no ser que hayas visto un perro volar jajaja), por lo que le podemos asigar el valor booleano falso, o mejor conocido "false".
+
+
