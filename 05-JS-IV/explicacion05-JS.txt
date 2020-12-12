@@ -1,0 +1,15 @@
+  
+Este archivo de texto fue creado en consola y modificado con el comando 'nano'.
+
+Objetos: Se dice que todo en JavaScript es un objeto. Un objeto es como una bolsa, puede contener cualquier tipo de de objeto (datos en nuestro caso). La bolsa puede ser de plastico, nylon, puede tener diferentes colores e incluso formas (que vendrian a ser las propiedades). Los objetos en JavaScript funcionan de forma parecida: Metemos todo tipo de datos y funciones dentro de esos objetos con el fin de resolver problemas de la vida real. Practicamente es la base de todo JavaScript.
+
+Propiedades: Un objeto es una coleccion de propiedades, las cuales pueden ser: metodos, variables, arreglos o incluso otro objeto. Un objeto sin propiedades no suele tener mucha utilidad para nuestro codigo.
+
+Metodos: Los metodos son funciones que parten de las propiedades de los objetos. Por ejemplo "array.push()" es un metodo de los arreglos, que ejecuta la funcion que agrega un item a la lista de arreglo.
+
+Bucle for in: Antes que nada, un bucle es una forma sencilla de hacer que algo se repita cuantas veces necesitemos o querramos. Ahora, el bucle 'for in' hace algo muy parecido al for, con la diferencia de que itera para cada propiedad del objeto al cual estamos referenciando. En otras palabras, ejecuta una accion por cada propiedad del objeto sobre el cual recorre este 'for in'.
+
+Notacion de puntos: Es un modo de llamar a las propiedades de un objeto, ya sea para obtener el valor o para crearlo. La caracteristica principal es que debe ser un identificador valido, es decir, no se pueden colocar numeros. Por ejemplo: "elemento.propiedad" es valido, pero "elemento.1243" no lo es.
+
+Notacion por corchetes: Es el segundo modo de llamar a las propiedades de un objeto. La cadena no tiene porque ser un identificador valido, puede tener cualquier valor. Por ejemplo: "elemento['propiedad']" o tambien elemento[123].
+
