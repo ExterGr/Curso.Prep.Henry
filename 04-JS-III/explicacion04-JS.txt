@@ -1,0 +1,3 @@
+Este archivo de texto fue creado en consola y modificado con el comando 'nano'.
+
+Arrays: Su traduccion al español es "arreglo". Un arreglo es como una lista en la cual se le pueden asignar elementos, sin importar el tipo de dato (string, objeto, numero, booleano, null, incluso hasta otro array). La ventaja de estas listas es que poseen muchas maneras para recorrelos y modificarlos en caso de ser necesario. Para reconocer un arreglo basta con ver que los datos esten contenidos en brackets "[]".
