@@ -1,0 +1,8 @@
+Este archivo de texto fue creado en consola y modificado con el comando 'nano'.
+
+prototype: Cada objeto en JavaScript tiene un objeto "padre" del cual proviene, al que llamamos prototipo. Esto permite al objeto "hijo" disponer de los metodos del objeto "padre" o tambien "abuelo", ya que podemos escalarlo hasta el prototipo que da origen a todo. Este prototipo que da origen a todo es un objeto, lo cual justifica "todo en JavaScript es un objeto".
+
+Clases: Antes que nada, las clases en JS son una forma de construir plantillas de objetos que compartan muchas propiedades y metodos. Por ejemplo: en todos los documentos de identidad estan los campos: nombre, apellido, nacimiento, lugar, etc. Esto nos ahorra mucha repeticion de codigo. La clases no son otra cosa que objetos con un tinte para que programadores de otros lenguajes se amiguen con este lenguaje. Es considerado un "azucar sintactico", aunque nos puede servir para ser mas expresivo con nuestro codigo.
+
+_Constructors_ de clases: Los constructores inicializan objetos a partir de las clases. Solamente puede haber un constructor por cada clase. Esto es como si fuese la descripcion del prototipo que estamos creando.
+
