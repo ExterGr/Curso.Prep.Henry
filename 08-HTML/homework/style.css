@@ -18,6 +18,15 @@ img {
     border: solid 50px brown;
     display: inline-block;
     align-items: center;
+    text-align: center;
+}
+
+#thirdDivPost {
+    text-align: center;
+}
+
+ul{
+    list-style: none;
 }
 
 #spanId {
@@ -36,6 +45,7 @@ img {
 }
 
 .divClass{
-    display: inline;
+    display: inline-block;
     text-align: center;
+    width: 98vw;
 }
