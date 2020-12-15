@@ -1,0 +1,41 @@
+body {
+    background-color: darkred;
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: coral;
+    padding: 50px;
+    border: solid 50px brown;
+    display: inline-block;
+    align-items: center;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+#fondoPizza{
+    padding: 0;
+    margin: 0;
+    z-index: -1;
+    position: absolute;
+    width: 98vw;
+    height: 100vh;
+    opacity: 0.5;
+}
+
+.divClass{
+    display: inline;
+    text-align: center;
+}
